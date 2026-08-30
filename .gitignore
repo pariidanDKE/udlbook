@@ -28,3 +28,10 @@ yarn-error.log*
 
 # macOS
 .DS_Store
+
+# Python
+.venv/
+.python-version
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
